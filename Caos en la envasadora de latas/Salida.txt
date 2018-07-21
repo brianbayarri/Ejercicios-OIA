@@ -1,0 +1,4 @@
+Cantidad de latas: 45
+Maxima secuencia: 9
+Maxima secuencia secundaria: 6
+Distancia entre ellos:10
